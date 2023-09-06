@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2023-09-06 13:25:03">
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<base_update_set display_value=""/>
+<completed_by display_value=""/>
+<completed_on>2023-09-06 06:36:13</completed_on>
+<description>Creating a custom application and transfering it to Github using Rest otbound message </description>
+<install_date/>
+<installed_from/>
+<is_default>false</is_default>
+<merged_to display_value=""/>
+<name>ServiceNow-GitRep</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date>2023-09-06 06:36:35</release_date>
+<remote_sys_id display_value=""/>
+<state>in progress</state>
+<sys_created_by>sameer.kumra</sys_created_by>
+<sys_created_on>2023-09-06 06:38:35</sys_created_on>
+<sys_id>544596a21b85f110c60efcc4cc4bcb4e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>sameer.kumra</sys_updated_by>
+<sys_updated_on>2023-09-06 06:38:35</sys_updated_on>
+</sys_update_set>
+</unload>
